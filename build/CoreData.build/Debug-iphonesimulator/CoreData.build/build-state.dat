@@ -1,0 +1,547 @@
+TCoreData
+v7
+r0
+t317027163.866957
+cCheck dependencies
+cProcessInfoPlistFile /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/Info.plist CoreData-Info.plist
+cCompileXIB /Users/nirajpendal/Desktop/CoreData/MainWindow.xib
+cProcessPCH /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreData_Prefix-cimfcpoxviwpvrakjqnocfrmefgj/CoreData_Prefix.pch.gch CoreData_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cDataModelVersionCompile /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData.momd /Users/nirajpendal/Desktop/CoreData/CoreData.xcdatamodeld
+cCompileC build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/main.o /Users/nirajpendal/Desktop/CoreData/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/CoreDataAppDelegate.o /Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Employee.o /Users/nirajpendal/Desktop/CoreData/Classes/Employee.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Department.o /Users/nirajpendal/Desktop/CoreData/Classes/Department.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData normal i386
+cGenerateDSYMFile /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app.dSYM /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData
+cTouch /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c000000004CC122A000000000001D6CE0
+t1287725728
+s1928416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreData.framework/Headers/CoreData.h
+c000000004CC12294000000000000046B
+t1287725716
+s1131
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/Classes/CoreDataAppDelegate.h
+c000000004D34314C0000000000000367
+t1295266124
+s871
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/Classes/CoreDataAppDelegate.m
+c000000004D5F6A6F000000000000309E
+t1298098799
+s12446
+i"CoreDataAppDelegate.h"
+i"Employee.h"
+i"Department.h"
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/Classes/Department.h
+c000000004D34213F000000000000026D
+t1295262015
+s621
+i<CoreData/CoreData.h>
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/Classes/Department.m
+c000000004D34213F0000000000000118
+t1295262015
+s280
+i"Department.h"
+i"Employee.h"
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/Classes/Employee.h
+c000000004D34213F00000000000001C5
+t1295262015
+s453
+i<CoreData/CoreData.h>
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/Classes/Employee.m
+c000000004D34213F0000000000000129
+t1295262015
+s297
+i"Employee.h"
+i"Department.h"
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/CoreData.xcdatamodeld
+c000000004D355A2D0000000000000088
+t1295342125
+s136
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/CoreData_Prefix.pch
+c000000004D2EA8D10000000000000164
+t1294903505
+s356
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/MainWindow.xib
+c000000004D2EA8D100000000000021CB
+t1294903505
+s8651
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/CoreData.LinkFileList
+c000000004D341FE700000000000001FD
+t1295261671
+s509
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/CoreDataAppDelegate.o
+t1295334363
+s67224
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Department.o
+t1295262254
+s5300
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Employee.o
+t1295262254
+s5340
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/main.o
+t1294920790
+s6296
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/build/Debug-iphonesimulator/CoreData.app
+t1295334363
+s238
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/build/Debug-iphonesimulator/CoreData.app.dSYM
+t1295334363
+s102
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData
+t1295334363
+s22824
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData.momd
+t1295262254
+s136
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/build/Debug-iphonesimulator/CoreData.app/Info.plist
+t1294920788
+s595
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/build/Debug-iphonesimulator/CoreData.app/MainWindow.nib
+t1294920788
+s985
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/build/Debug-iphonesimulator/CoreData.app/PkgInfo
+t1294920788
+s8
+
+N/Users/nirajpendal/Desktop/AppsBipin/CoreData/main.m
+c000000004D2EA8D1000000000000016B
+t1294903505
+s363
+i<UIKit/UIKit.h>
+
+N/Users/nirajpendal/Desktop/CoreData/Classes/../Department.m
+c000000004D3415C90000000000000118
+t1295259081
+s280
+i"Department.h"
+i"Employee.h"
+
+N/Users/nirajpendal/Desktop/CoreData/Classes/../Employee.m
+c000000004D33E4E0000000000000010D
+t1295246560
+s269
+i"Employee.h"
+
+N/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.h
+c000000004D34314C0000000000000367
+t1295266124
+s871
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m
+c000000004D3556FE000000000000309E
+t1295341310
+s12446
+i"CoreDataAppDelegate.h"
+i"Employee.h"
+i"Department.h"
+
+N/Users/nirajpendal/Desktop/CoreData/Classes/Department.h
+c000000004D34213F000000000000026D
+t1295262015
+s621
+i<CoreData/CoreData.h>
+
+N/Users/nirajpendal/Desktop/CoreData/Classes/Department.m
+c000000004D34213F0000000000000118
+t1295262015
+s280
+i"Department.h"
+i"Employee.h"
+
+N/Users/nirajpendal/Desktop/CoreData/Classes/Employee.h
+c000000004D34213F00000000000001C5
+t1295262015
+s453
+i<CoreData/CoreData.h>
+
+N/Users/nirajpendal/Desktop/CoreData/Classes/Employee.m
+c000000004D34213F0000000000000129
+t1295262015
+s297
+i"Employee.h"
+i"Department.h"
+
+N/Users/nirajpendal/Desktop/CoreData/CoreData.xcdatamodeld
+c000000004D34222E0000000000000088
+t1295262254
+s136
+
+N/Users/nirajpendal/Desktop/CoreData/CoreData.xcdatamodeld/Department.h
+c000000004D3415C9000000000000026D
+t1295259081
+s621
+i<CoreData/CoreData.h>
+
+N/Users/nirajpendal/Desktop/CoreData/CoreData.xcdatamodeld/Department.m
+c000000004D3415C90000000000000118
+t1295259081
+s280
+i"Department.h"
+i"Employee.h"
+
+N/Users/nirajpendal/Desktop/CoreData/CoreData.xcdatamodeld/Employee.h
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/nirajpendal/Desktop/CoreData/CoreData.xcdatamodeld/Employee.m
+c000000004D33DA29000000000000010D
+t1295243817
+s269
+i"Employee.h"
+
+N/Users/nirajpendal/Desktop/CoreData/CoreData_Prefix.pch
+c000000004D2EA8D10000000000000164
+t1294903505
+s356
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+i<CoreData/CoreData.h>
+
+N/Users/nirajpendal/Desktop/CoreData/Department.h
+c000000004D3415C9000000000000026D
+t1295259081
+s621
+i<CoreData/CoreData.h>
+
+N/Users/nirajpendal/Desktop/CoreData/Employee.h
+c000000004D33E4DB00000000000001AB
+t1295246555
+s427
+i<CoreData/CoreData.h>
+
+N/Users/nirajpendal/Desktop/CoreData/MainWindow.xib
+c000000004D2EA8D100000000000021CB
+t1294903505
+s8651
+
+N/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/CoreData.LinkFileList
+c000000004D341FE700000000000001FD
+t1295261671
+s509
+
+N/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/CoreDataAppDelegate.o
+t1295334363
+s67224
+
+N/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Department.o
+t1295262254
+s5300
+
+N/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Employee.o
+t1295262254
+s5340
+
+N/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/main.o
+t1294920790
+s6296
+
+N/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app
+t1295334363
+s238
+
+N/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app.dSYM
+t1295334363
+s102
+
+N/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData
+t1295334363
+s22824
+
+N/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData.momd
+t1295262254
+s136
+
+N/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/Info.plist
+t1294920788
+s595
+
+N/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/MainWindow.nib
+t1294920788
+s985
+
+N/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/PkgInfo
+t1294920788
+s8
+
+N/Users/nirajpendal/Desktop/CoreData/main.m
+c000000004D2EA8D1000000000000016B
+t1294903505
+s363
+i<UIKit/UIKit.h>
+
+N/var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreData_Prefix-cimfcpoxviwpvrakjqnocfrmefgj/CoreData_Prefix.pch.gch
+t1294920790
+s16326640
+
+N/var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreData_Prefix-hbquyfcitadgnvgbrbybzlwimjov/CoreData_Prefix.pch.gch
+t2
+s0
+
+NCoreData-Info.plist
+c000000004D2EA8D1000000000000038D
+t1294903505
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies317027163#317027163#0(0"0(0#1#0"8632460992#0"0#
+
+CCompileC build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/CoreDataAppDelegate.o /Users/nirajpendal/Desktop/AppsBipin/CoreData/Classes/CoreDataAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/CoreDataAppDelegate.o /Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s317027163.659763
+e317027163.825464
+r1
+xCompileC
+xbuild/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/CoreDataAppDelegate.o
+x/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m: In function '-[CoreDataAppDelegate application:didFinishLaunchingWithOptions:]':
+o/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m:31: warning: unused variable 'hod'
+o/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m:30: warning: unused variable 'designation'
+o/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m:29: warning: unused variable 'empNo'
+o/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m:28: warning: unused variable 'departmentName'
+o/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m:27: warning: unused variable 'name'
+lSLF07#2@73"Compile /Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m317027163#317027163#0(675"/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m: In function '-[CoreDataAppDelegate application:didFinishLaunchingWithOptions:]':/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m:31: warning: unused variable 'hod'/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m:30: warning: unused variable 'designation'/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m:29: warning: unused variable 'empNo'/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m:28: warning: unused variable 'departmentName'/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m:27: warning: unused variable 'name'5(22@21"Unused variable 'hod'317027163#148#101#0(6@65"/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m317027161#31#0#31#0#19"unused variable '*'0(22@29"Unused variable 'designation'317027163#249#109#0(6@65"/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m317027161#30#0#30#0#19"unused variable '*'0(22@23"Unused variable 'empNo'317027163#358#103#0(6@65"/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m317027161#29#0#29#0#19"unused variable '*'0(22@32"Unused variable 'departmentName'317027163#461#112#0(6@65"/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m317027161#28#0#28#0#19"unused variable '*'0(22@22"Unused variable 'name'317027163#573#102#0(6@65"/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m317027161#27#0#27#0#19"unused variable '*'0(0#0#65"/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m8629233152#1939"    cd /Users/nirajpendal/Desktop/CoreData    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-generated-files.hmap -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-own-target-headers.hmap -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-all-target-headers.hmap -iquote /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-project-headers.hmap -F/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator -I/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/include -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/DerivedSources/i386 -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/DerivedSources -include /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreData_Prefix-cimfcpoxviwpvrakjqnocfrmefgj/CoreData_Prefix.pch -c /Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m -o /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/CoreDataAppDelegate.o0#
+
+CCompileC build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Department.o /Users/nirajpendal/Desktop/AppsBipin/CoreData/Classes/Department.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Department.o /Users/nirajpendal/Desktop/CoreData/Classes/../Department.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316954471.221225
+e316954471.285848
+r1
+xCompileC
+xbuild/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Department.o
+x/Users/nirajpendal/Desktop/CoreData/Classes/../Department.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@67"Compile /Users/nirajpendal/Desktop/CoreData/Classes/../Department.m316954471#316954471#0(0"0(0#0#59"/Users/nirajpendal/Desktop/CoreData/Classes/../Department.m8619113600#1924"    cd /Users/nirajpendal/Desktop/CoreData    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-generated-files.hmap -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-own-target-headers.hmap -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-all-target-headers.hmap -iquote /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-project-headers.hmap -F/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator -I/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/include -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/DerivedSources/i386 -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/DerivedSources -include /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreData_Prefix-cimfcpoxviwpvrakjqnocfrmefgj/CoreData_Prefix.pch -c /Users/nirajpendal/Desktop/CoreData/Classes/../Department.m -o /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Department.o0#
+
+CCompileC build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Department.o /Users/nirajpendal/Desktop/CoreData/Classes/Department.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316955054.805397
+e316955054.860650
+r1
+xCompileC
+xbuild/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Department.o
+x/Users/nirajpendal/Desktop/CoreData/Classes/Department.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/nirajpendal/Desktop/CoreData/Classes/Department.m316955054#316955054#0(0"0(0#0#56"/Users/nirajpendal/Desktop/CoreData/Classes/Department.m8626430400#1921"    cd /Users/nirajpendal/Desktop/CoreData    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-generated-files.hmap -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-own-target-headers.hmap -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-all-target-headers.hmap -iquote /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-project-headers.hmap -F/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator -I/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/include -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/DerivedSources/i386 -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/DerivedSources -include /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreData_Prefix-cimfcpoxviwpvrakjqnocfrmefgj/CoreData_Prefix.pch -c /Users/nirajpendal/Desktop/CoreData/Classes/Department.m -o /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Department.o0#
+
+CCompileC build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Department.o /Users/nirajpendal/Desktop/CoreData/CoreData.xcdatamodeld/Department.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Employee.o /Users/nirajpendal/Desktop/AppsBipin/CoreData/Classes/Employee.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Employee.o /Users/nirajpendal/Desktop/CoreData/Classes/../Employee.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316941690.870969
+e316941690.929620
+r1
+xCompileC
+xbuild/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Employee.o
+x/Users/nirajpendal/Desktop/CoreData/Classes/../Employee.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/nirajpendal/Desktop/CoreData/Classes/../Employee.m316941690#316941690#0(0"0(0#0#57"/Users/nirajpendal/Desktop/CoreData/Classes/../Employee.m8618771808#1920"    cd /Users/nirajpendal/Desktop/CoreData    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-generated-files.hmap -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-own-target-headers.hmap -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-all-target-headers.hmap -iquote /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-project-headers.hmap -F/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator -I/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/include -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/DerivedSources/i386 -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/DerivedSources -include /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreData_Prefix-cimfcpoxviwpvrakjqnocfrmefgj/CoreData_Prefix.pch -c /Users/nirajpendal/Desktop/CoreData/Classes/../Employee.m -o /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Employee.o0#
+
+CCompileC build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Employee.o /Users/nirajpendal/Desktop/CoreData/Classes/Employee.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316955054.744125
+e316955054.805287
+r1
+xCompileC
+xbuild/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Employee.o
+x/Users/nirajpendal/Desktop/CoreData/Classes/Employee.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@62"Compile /Users/nirajpendal/Desktop/CoreData/Classes/Employee.m316955054#316955054#0(0"0(0#0#54"/Users/nirajpendal/Desktop/CoreData/Classes/Employee.m8623814624#1917"    cd /Users/nirajpendal/Desktop/CoreData    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-generated-files.hmap -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-own-target-headers.hmap -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-all-target-headers.hmap -iquote /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-project-headers.hmap -F/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator -I/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/include -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/DerivedSources/i386 -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/DerivedSources -include /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreData_Prefix-cimfcpoxviwpvrakjqnocfrmefgj/CoreData_Prefix.pch -c /Users/nirajpendal/Desktop/CoreData/Classes/Employee.m -o /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Employee.o0#
+
+CCompileC build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/Employee.o /Users/nirajpendal/Desktop/CoreData/CoreData.xcdatamodeld/Employee.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/main.o /Users/nirajpendal/Desktop/AppsBipin/CoreData/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/main.o /Users/nirajpendal/Desktop/CoreData/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s316613590.473520
+e316613590.537196
+r1
+xCompileC
+xbuild/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/main.o
+x/Users/nirajpendal/Desktop/CoreData/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/nirajpendal/Desktop/CoreData/main.m316613590#316613590#0(0"0(0#0#42"/Users/nirajpendal/Desktop/CoreData/main.m8639865184#1901"    cd /Users/nirajpendal/Desktop/CoreData    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-generated-files.hmap -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-own-target-headers.hmap -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-all-target-headers.hmap -iquote /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-project-headers.hmap -F/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator -I/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/include -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/DerivedSources/i386 -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/DerivedSources -include /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreData_Prefix-cimfcpoxviwpvrakjqnocfrmefgj/CoreData_Prefix.pch -c /Users/nirajpendal/Desktop/CoreData/main.m -o /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/nirajpendal/Desktop/AppsBipin/CoreData/MainWindow.xib
+r0
+
+CCompileXIB /Users/nirajpendal/Desktop/CoreData/MainWindow.xib
+s316613588.167068
+e316613588.520579
+r1
+xCompileXIB
+x/Users/nirajpendal/Desktop/CoreData/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib316613588#316613588#0(0"0(0#0#50"/Users/nirajpendal/Desktop/CoreData/MainWindow.xib8600093312#562"    cd /Users/nirajpendal/Desktop/CoreData    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/MainWindow.nib /Users/nirajpendal/Desktop/CoreData/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CDataModelVersionCompile /Users/nirajpendal/Desktop/AppsBipin/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData.momd /Users/nirajpendal/Desktop/AppsBipin/CoreData/CoreData.xcdatamodeld
+r0
+
+CDataModelVersionCompile /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData.momd /Users/nirajpendal/Desktop/CoreData/CoreData.xcdatamodeld
+s316955054.642155
+e316955054.744000
+r1
+xDataModelVersionCompile
+x/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData.momd
+x/Users/nirajpendal/Desktop/CoreData/CoreData.xcdatamodeld
+lSLF07#2@100"DataModelVersionCompile build/Debug-iphonesimulator/CoreData.app/CoreData.momd CoreData.xcdatamodeld316955054#316955054#0(0"0(0#0#57"/Users/nirajpendal/Desktop/CoreData/CoreData.xcdatamodeld8626622016#380"    cd /Users/nirajpendal/Desktop/CoreData    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/momc -XD_MOMC_TARGET_VERSION=10.6 /Users/nirajpendal/Desktop/CoreData/CoreData.xcdatamodeld /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData.momd0#
+
+CGenerateDSYMFile /Users/nirajpendal/Desktop/AppsBipin/CoreData/build/Debug-iphonesimulator/CoreData.app.dSYM /Users/nirajpendal/Desktop/AppsBipin/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData
+r0
+
+CGenerateDSYMFile /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app.dSYM /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData
+s317027163.851162
+e317027163.864422
+r1
+xGenerateDSYMFile
+x/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app.dSYM
+x/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData
+lSLF07#2@112"GenerateDSYMFile build/Debug-iphonesimulator/CoreData.app.dSYM build/Debug-iphonesimulator/CoreData.app/CoreData317027163#317027163#0(0"0(0#0#85"/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData8631948032#377"    cd /Users/nirajpendal/Desktop/CoreData    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData -o /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app.dSYM0#
+
+CLd /Users/nirajpendal/Desktop/AppsBipin/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData normal i386
+r0
+
+CLd /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData normal i386
+s317027163.825572
+e317027163.851075
+r1
+xLd
+x/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData
+xnormal
+xi386
+lSLF07#2@90"Link /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData317027163#317027163#0(0"0(0#0#0"8630336896#910"    cd /Users/nirajpendal/Desktop/CoreData    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator -F/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator -filelist /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/Objects-normal/i386/CoreData.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework CoreData -o /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/CoreData0#
+
+CProcessInfoPlistFile /Users/nirajpendal/Desktop/AppsBipin/CoreData/build/Debug-iphonesimulator/CoreData.app/Info.plist CoreData-Info.plist
+r0
+
+CProcessInfoPlistFile /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/Info.plist CoreData-Info.plist
+s316613588.164134
+e316613588.166995
+r1
+xProcessInfoPlistFile
+x/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/Info.plist
+xCoreData-Info.plist
+lSLF07#2@27"Process CoreData-Info.plist316613588#316613588#0(0"0(0#0#55"/Users/nirajpendal/Desktop/CoreData/CoreData-Info.plist8634023296#473"    cd /Users/nirajpendal/Desktop/CoreData    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility CoreData-Info.plist -genpkginfo /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app/Info.plist0#
+
+CProcessPCH /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreData_Prefix-cimfcpoxviwpvrakjqnocfrmefgj/CoreData_Prefix.pch.gch CoreData_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316613588.520713
+e316613590.471198
+r1
+xProcessPCH
+x/var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreData_Prefix-cimfcpoxviwpvrakjqnocfrmefgj/CoreData_Prefix.pch.gch
+xCoreData_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile CoreData_Prefix.pch316613588#316613590#0(0"0(0#0#55"/Users/nirajpendal/Desktop/CoreData/CoreData_Prefix.pch8639381472#1795"    cd /Users/nirajpendal/Desktop/CoreData    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-generated-files.hmap -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-own-target-headers.hmap -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-all-target-headers.hmap -iquote /Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/CoreData-project-headers.hmap -F/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator -I/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/include -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/DerivedSources/i386 -I/Users/nirajpendal/Desktop/CoreData/build/CoreData.build/Debug-iphonesimulator/CoreData.build/DerivedSources -c /Users/nirajpendal/Desktop/CoreData/CoreData_Prefix.pch -o /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreData_Prefix-cimfcpoxviwpvrakjqnocfrmefgj/CoreData_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/7L/7LN5NO-1G+Gox0GJQxvA6++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CoreData_Prefix-hbquyfcitadgnvgbrbybzlwimjov/CoreData_Prefix.pch.gch CoreData_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/nirajpendal/Desktop/AppsBipin/CoreData/build/Debug-iphonesimulator/CoreData.app
+r0
+
+CTouch /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app
+s317027163.864510
+e317027163.866921
+r1
+xTouch
+x/Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app
+lSLF07#2@82"Touch /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app317027163#317027163#0(0"0(0#0#0"8629301344#273"    cd /Users/nirajpendal/Desktop/CoreData    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/nirajpendal/Desktop/CoreData/build/Debug-iphonesimulator/CoreData.app0#
+

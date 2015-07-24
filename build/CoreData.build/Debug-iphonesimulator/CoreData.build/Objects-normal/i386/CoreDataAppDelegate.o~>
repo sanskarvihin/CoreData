@@ -1,0 +1,6 @@
+/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m: In function '-[CoreDataAppDelegate application:didFinishLaunchingWithOptions:]':
+/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m:30: warning: unused variable 'hod'
+/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m:29: warning: unused variable 'designation'
+/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m:28: warning: unused variable 'empNo'
+/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m:27: warning: unused variable 'departmentName'
+/Users/nirajpendal/Desktop/CoreData/Classes/CoreDataAppDelegate.m:26: warning: unused variable 'name'
